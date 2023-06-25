@@ -1,0 +1,6 @@
+BARANG
+- No. SKU 4 integer uniq
+- Nama Barang char
+- Harga Satuan char
+- Jumlah Stok integer
+
